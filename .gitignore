@@ -1,0 +1,9 @@
+*
+
+!.gitignore
+!.zshrc
+!README.md
+
+!.icons/Reversal-dark/*
+!.themes/Catppuccin-Macchiato-BL/*
+
