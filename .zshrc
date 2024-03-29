@@ -75,7 +75,7 @@ plugins=(
   zsh-autosuggestions
   zsh-syntax-highlighting
   fast-syntax-highlighting
-  zsh-autocomplete
+#  zsh-autocomplete # This plugin breaks the upper arrow history navigation, do not use atm
 )
 
 source $ZSH/oh-my-zsh.sh
